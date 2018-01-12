@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="teamNames">Team Name</string>
+    <string name="attempts">Total Attempts</string>
+    <string name="shotsOnTarget">Shots on Target</string>
+    <string name="passes">Total Passes</string>
+    <string name="corners">Corners</string>
+    <string name="fouls">Fouls</string>
+    <string name="yCard">Yellow Cards</string>
+    <string name="rCard">Red Cards</string>
+    <string name="defaultValue">0</string>
+    <string name="resetButton">Reset</string>
+</resources>
